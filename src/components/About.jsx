@@ -45,7 +45,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] leading-[30px]'
       >
-        As a skilled Frontend Developer with over 5 years of experience in Frontend and Fullstack development, I specialize in building scalable, high-performance applications using the MEAN and MERN stacks. My expertise is further enhanced by a strong foundation in cloud technologies, including AWS, allowing me to design, develop, and deploy robust solutions on modern architectures.
+        As a skilled Fullstack Developer with over 5+ years of experience in Frontend and Fullstack development, I specialize in building scalable, high-performance applications using the MEAN and MERN stacks. My expertise is further enhanced by a strong foundation in cloud technologies, including AWS, allowing me to design, develop, and deploy robust solutions on modern architectures.
         <br className='sm:block hidden' />
         <br className='sm:block hidden' />
         I have successfully delivered projects across various domains, including MVPs for startups, large-scale enterprise applications, and freelance initiatives. My approach is defined by a solution-oriented mindset, adaptability to diverse challenges, and a commitment to delivering efficient, high-quality outcomes.

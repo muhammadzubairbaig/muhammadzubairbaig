@@ -139,74 +139,46 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Frontend Engineer",
+    title: "Software Engineer",
     company_name: "Hivebuy - Berlin, Germany",
     icon: hivebuy,
     iconBg: "#383E56",
-    date: "Jan 2024 - Dec 2024",
+    date: "Jan 2024 - present",
     points: [
-      `Engineered a suite of web application interfaces using React, HTML5, and CSS3 that enhanced user interaction;
-        increased customer satisfaction ratings by approximately 20% and reduced bounce rates by nearly 15% due to
-        improved responsiveness.`,
-      `Utilized Redux and React Query for State Management with an eicient performance optimization that the overall
-data load time is reduced by approximately ~20%.`,
-      `Replaced the ineicient appointment system and restructured the client portal, reducing booking time by ~30% and
-making client request processing faster by ~25% , which resulted in a growth of customer satisfaction by ~20%.
-`
+      "Enhanced key customer-facing pages, such as Product Listings and Checkout, significantly improving performance and UX, resulting in faster transactions and a reduction in page load time by 1 second.",
+      "Introduce multilingual support, expanding the platform's reach to 10+ regions and driving global user adoption across diverse markets.",
+      "Played a key role in LLM-based chatbot support, automating real-time assistance and reducing support queries, while providing immediate solutions to boost customer satisfaction, increasing by ~25%.",
+      "Refined AI-powered features, like intelligent search and personalized recommendations, are increasing user engagement and retention by ~15%, and making it easier for customers to find products more efficiently.",
+      "Collaborated with cross-functional teams in an Agile environment, delivering frontend solutions that enrich feature release cycles by 1 week.",
     ],
   },
   {
-    title: "Senior Software Engineer",
-    company_name: "Autoleap (Remote Canada)",
+    title: "Software Engineer",
+    company_name: "Autoleap - Canada",
     icon: autoleap,
     iconBg: "#E6DEDD",
-    date: "Oct 2021 - Dec 2023",
+    date: "Nov 2021 - Dec 2023",
     points: [
-      `Rened performance with code spliing and lazy loading strategies delivered an improvement of approximately
-      ~25% in initial loading times.`,
-
-      `Implemented GraphQL into Next js and React applications for fetching data, increasing eiciency by ~30% and
-      decreasing the API response time by ~25%.`,
-
-      `Engineered and integrated a Drag and Drop feature for orders and invoices, reducing processing time by ~50%,
-      cuing the frequency of mistakes by ~10% , and increasing end-user contentment by ~15%.`,
-
-      ` Built a comprehensive dashboard utilizing React and Chart.js that aggregated key performance metrics and now
-      the tool is utilized by over 20 team members, fostering a culture of data-driven decision making across the
-      organization.`,
-
-      ` Crafted and implemented RESTful APIs with Node js, so that frontend and backend system are able to
-      communicate with ease.`,
-
-      `Conducted usability testing and collect the feedback to improve the UI component and thereby the user
-      satisfaction has increased by ~15%`,
-
-      `Collaborated with Product Management and UI/ UX designers to implement three cloud-based software
-      applications, improving overall development speed by ~20% and usage by ~30%.`,
-    ],
+      "Improved the UI performance and modularity by creating reusable React components, resulting in a ~25% decrease in loading times, which increased engineering velocity for the upcoming sprints.",
+      "Partnered with AI/ML teams to integrate predictive maintenance alerts into the repair workflow, which led to a reduced rate of unexpected breakdowns and improved vehicle turnaround time by 2 times.",
+      "Boost AutoLeap onboarding and learning features by building responsive UI components with REST API connections that facilitated an engaging user experience and a more effective product adoption journey for each of their 10,000+ users.",
+      "Apply smarter load strategies and deferred rendering that optimized the time-to-interactive (TTI) for important onboarding pages from 2.8 seconds to 1.5 seconds",
+      "Reduced UI latency by profiling and optimizing the critical path, improving the form response and validation time by 400ms on average.",
+    ]
   },
   {
-    title: "Senior Frontend Engineer",
+    title: "Frontend Engineer",
     company_name: "Tplex - Pakistan",
     icon: tplex,
     iconBg: "#383E56",
-    date: "Oct 2018 - Oct 2021",
+    date: "Jul 2019 - Nov 2021",
     points: [
-      `• Developed and produced over 50 responsive and accessible user interfaces from visual designs and wireframes.
-      To maintain uniformity, we aimed to make the UX of the sites and apps identical irrespective of the devices and
-      achieved a ~90% accessibility compliance according to WCAG norms.`,
-      `Created an advanced assessment platform leveraging Material UI and PrimeNG, resulting in a cohesive user
-      experience; streamlined the design process, allowing for the addition of 20+ questions in under 5 minutes.`,
-      `Optimized Redux store performance through the implementation of Redux Thunk middleware, with A/B testing
-      demonstrating a 50% reduction in loading times, providing users with a more uid and responsive application
-      experience.`,
-      `Analyzed user behavior data to develop a seamless navigation system; achieved a 40% faster task completion time
-      for users, directly enhancing overall user satisfaction and interaction eectiveness on the website.`,
-      `Crafted several custom React hooks and sources of reusable components in React to follow the principles of
-      encapsulation and don't repeat yourself, leading to an estimated cut of the code copypaste factor on ~14%.`,
-      `Applied Tailwind CSS for customizable and responsive design and was able to design pages with up of 25% less
-      time due to its utility-rst frame work.`,
-    ],
+      "Developed and maintained a real-time human development platform, scaling to support over 1.25M million users while ensuring consistent performance during peak load times.",
+      "Created and launched 50+ responsive and accessible UIs, increasing usability on all devices consistent with WCAG 2.1 accessibility standards",
+      "Wrote 150+ unit and integration tests with Jest, achieving ~50% test coverage and decreasing post-release bugs",
+      "Assisted in refining the health medical record system for clinicians, leading to a major decrease UI latency from 700ms to under 300ms, and improving the rate of data entry with intelligent, context-aware suggestions.",
+      "Designed over 20 reusable UI components and utilized RESTful APIs to render dynamic data for rendering patient information, including prescriptions, lab results, and encounter history.",
+    ]
   },
 ];
 
@@ -216,7 +188,7 @@ const education = [
     company_name: "Computer Science - Berlin, Germany",
     icon: arden,
     iconBg: "#383E56",
-    date: "Nov 2023 - Nov 2024 (Graduated)",
+    date: "Nov 2023 - Jan 2025",
     points: [
       `Delivered research findings through impactful presentations and technical papers, demonstrating a profound understanding of Employee Engagement and Retention`,
     ],
